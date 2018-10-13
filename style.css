@@ -50,3 +50,39 @@ nav a {
 nav a:hover {
   background-color: #ffe419;
 }
+
+main h2 {
+
+}
+
+main a {
+  font-weight: bold;
+  color: orange;
+}
+
+main {
+  padding-bottom: 20px;
+}
+
+footer {
+  background-color: #cccccc;
+  margin: -20px;
+  padding: 20px;
+  font-size: 12px;
+}
+
+#social-media {
+  font-size: 20px;
+}
+
+.icon-facebook2 {
+  color: dodgerblue;
+}
+
+.icon-twitter {
+  color: #a5c9e5;
+}
+
+main img {
+  width: 200px;
+}
